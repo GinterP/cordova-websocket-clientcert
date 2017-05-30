@@ -20,6 +20,9 @@
     "cordova-android"
   ],
   "author": "Kay Schecker",
+  "contributors": [
+    {}
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/flynetworks/cordova-websocket-clientcert/issues"
