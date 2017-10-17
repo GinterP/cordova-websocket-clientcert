@@ -1,4 +1,4 @@
-# cordova-websocket-clientcert
+# cordova-plugin-web-socket-client-certificate
 
 This plugin provides a custom websocket implemenation for javascript
 supporting client side PKCS12 certificates.
@@ -9,7 +9,7 @@ supporting client side PKCS12 certificates.
 
 ## Installation
 
-cordova plugin add cordova-web-socket-client-cert
+cordova plugin add cordova-plugin-web-socket-client-certificate
 
 ## Note
 
