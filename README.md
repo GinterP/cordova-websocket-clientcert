@@ -9,7 +9,7 @@ supporting client side PKCS12 certificates.
 
 ## Installation
 
-cordova plugin add cordova-plugin-web-socket-client-certificate
+cordova plugin add https://github.com/GinterP/cordova-websocket-clientcert.git
 
 ## Note
 
