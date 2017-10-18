@@ -18,7 +18,7 @@ For the time being all servers are trusted
 ## Usage
 
 ```javascript
-var url = 'wss://hostname:port/path'; 
+var url = 'wss://hostname:port/path';
 var certFile = '/absolute/path/myCert.p12'; // absolute path of the filesystem (see https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-file/#android-file-system-layout)
 var certPass = 'Secure123';
 

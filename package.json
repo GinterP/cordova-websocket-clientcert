@@ -1,6 +1,6 @@
 {
-  "name": "CordovaPluginWebSocketClientCert",
-  "version": "0.0.10",
+  "name": "cordova-plugin-web-socket-client-certificate",
+  "version": "0.0.11",
   "description": "This plugin provides a custom websocket implemenation for javascript supporting client side certificates.",
   "cordova": {
     "id": "cordova-plugin-web-socket-client-certificate",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flynetworks/cordova-websocket-clientcert.git"
+    "url": "git+https://github.com/ginterp/cordova-plugin-web-socket-client-certificate.git"
   },
   "keywords": [
     "websocket",
@@ -25,7 +25,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flynetworks/cordova-websocket-clientcert/issues"
+    "url": "https://github.com/ginterp/cordova-plugin-web-socket-client-certificate/issues"
   },
-  "homepage": "https://github.com/flynetworks/cordova-websocket-clientcert#readme"
+  "homepage": "https://github.com/ginterp/cordova-plugin-web-socket-client-certificate#readme"
 }
